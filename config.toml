@@ -4,6 +4,8 @@ title         = "兴如包装"
 theme         = "roxo"
 summarylength = 25
 
+googleAnalytics = "G-0FFTNSH64V"
+
 # Site Menus
 [menu]
   # Navbar Menus
@@ -36,7 +38,7 @@ summarylength = 25
   description = "创国际品牌 为社会服务 | 诚信经营 质量保证"
   author = "cfstyle"
   # Google Analitycs
-  googleAnalitycsID = "G-0FFTNSH64V"
+  #googleAnalitycsID = ""
   # We're using formspree.io for form handling, paste your formspree url below
   formspreeFormUrl  = "https://formspree.io/f/xjvjebda"
 
