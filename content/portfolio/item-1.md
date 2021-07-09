@@ -1,9 +1,9 @@
 ---
-title: "OSEN CLOCK"
-date: 2019-12-23T15:56:43+06:00
+title: "瓦楞纸箱"
+date: 2019-12-23T20:56:42+06:00
 type: portfolio
-image: "images/projects/project-thumb-two.jpg"
-category: ["PRODUCT DESIGN"]
+image: "images/projects/xingru/item-1-0.jpg"
+category: ["三层", "五层", "七层"]
 project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
 ---
 
@@ -26,3 +26,4 @@ Mystery answer. After entering this mode, the screen initially displays “ask n
 Note: these strings are for the English version of the watch, we will need to use completely different strings in other countries without reprogramming the logic of the watch.
 
 The user may cycle among all modes (date/time, timer, mystery answer) by pressing the mode button.
+

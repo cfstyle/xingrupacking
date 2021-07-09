@@ -1,14 +1,15 @@
 enable : true
-heading : "THE PROOF IS IN THE PUDDING!"
+heading : "专业生产各种纸箱包装箱，可按需定制"
 counter_item: 
-  - title: "Happy Clients"
-    number: "250"
+  - title: "成立年限"
+    number: "20"
 
-  - title: "Projects Completed"
+  - title: "占地面积"
+    number: "10000"
+
+  - title: "合作客户"
     number: "100"
 
-  - title: "Cups of coffee"
-    number: "350"
+  - title: "产品种类"
+    number: "200"
 
-  - title: "Telephone Talks"
-    number: "775"

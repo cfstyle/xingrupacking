@@ -1,8 +1,8 @@
 ---
-title: "About Us"
+title: "关于我们"
 date: 2018-07-12T18:19:33+06:00
-heading : "WE ARE ROXO DESIGN. AN AWARD-WINNING CREATIVE STUDIO IN FLORIDA."
-description : "We are specialized in developing forward-thinking brand identities, websites, illustration and animation for all types of customers. And we do this by bringing our customers through each phase of the design process with us."
-expertise_title: "Expertise"
-expertise_sectors: ["Customer Experience Design", "Digital Products", "Development", "Campaign & Content", "Employer Branding", "Animation & Motion Graphics", "Packaging & Product Design", "Retail & Spacial", "Print & Editorial Design", "Concept/Text", "Information Design"]
+heading : "兴如包装深耕纸箱行业多年，致力于包装产品的品质体现和价值创造，我们凭借专业的设计理念和创新精神，满足各类用户的包装需求，提供专业的包装定制化方案。"
+description : "兴如包装成立于2003年，位于如皋经济开发区镇南居委会16组，公司占地面积为10000平方米，其中生产及办公用房9500平方米。我们拥有国内专业的纸箱流水线、高速印刷机6台和全电脑印刷开轧机、轧盒、粘合、装订、电脑刻版等一系列纸箱、纸盒生产设备。 "
+expertise_title: "特色产品"
+expertise_sectors: ["瓦楞纸箱（三层、五层、七层）", "纸板", "纸盒"]
 ---

@@ -13,18 +13,18 @@
           </div>
           <div class="site-project-single-image">
             {{ range .Params.project_images }}
-            <img src="{{ . | absURL }}" alt="project image">
+            <img src="{{ . | absURL }}" alt="产品图片">
             {{ end }}
           </div>
           {{ if .NextInSection }}
           <div class="site-project-single-action">
             <a href="{{.NextInSection.Permalink}}">
               <span class="link-area">
-                <span data-text="Next Project">
-                  Next Project
+                <span data-text="下一个">
+                  下一个
                 </span>
               </span>
-              <img src="{{ "images/to-top.svg" | absURL }}" alt="next project">
+              <img src="{{ "images/to-top.svg" | absURL }}" alt="下一个">
             </a>
           </div>
           {{ end }}

@@ -9,8 +9,8 @@
           </div>
           <div class="site-client-wrapper">
             {{ range .client_logos }}
-            <div class="site-client-item">
-              <img src="{{ . | absURL }}" alt="client-logo">
+            <div class="site-client-item" style="height: 150px; line-height: 150px;   flex-wrap: nowrap;">
+              <img src="{{ . | absURL }}" alt="client-logo" style="max-height: 100px; max-width: 250px">
             </div>
             {{ end }}
           </div>

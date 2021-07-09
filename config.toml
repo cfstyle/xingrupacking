@@ -1,6 +1,6 @@
 baseURL       = "https://xingrupacking.com"
 languageCode  = "en-us"
-title         = "兴如企业"
+title         = "兴如包装"
 theme         = "roxo"
 summarylength = 25
 
@@ -33,21 +33,21 @@ summarylength = 25
   logo = "images/logo.png"
   dateFormat = "26 FEB 1994"
   # Meta data
-  description = "创国际品牌 为社会服务 | 真诚服务 天天进步"
-  author = "StaticMania"
+  description = "创国际品牌 为社会服务 | 诚信经营 质量保证"
+  author = "cfstyle"
   # Google Analitycs
-  googleAnalitycsID = "Your ID"
+  googleAnalitycsID = "G-0FFTNSH64V"
   # We're using formspree.io for form handling, paste your formspree url below
-  formspreeFormUrl  = "https://formspree.io/myykjpje"
+  formspreeFormUrl  = "https://formspree.io/f/xjvjebda"
 
   # Contact Form
   [params.contactForm]
-    placeholder_first_name        = "First Name"
-    placeholder_last_name         = "Last Name"
-    placeholder_email             = "Email"
-    placeholder_project_type      = "Project Type"
-    placeholder_about_the_project = "About the Project"
-    send_message                  = "Send Message"
+    placeholder_first_name        = "姓名"
+    #placeholder_last_name         = "邮箱"
+    placeholder_phone_number      = "电话"
+    #placeholder_project_type      = "Project Type"
+    #placeholder_about_the_project = "About the Project"
+    send_message                  = "发送"
 
     [[params.contactForm.projectType]]
       value = "gd"
@@ -59,7 +59,7 @@ summarylength = 25
   # Navbar Action Button
   [params.navAction]
     status  = true
-    name    = "Get in touch"
+    name    = "联系我们"
     url     = "contact"
   
 
@@ -68,21 +68,21 @@ summarylength = 25
     enable                = true
     background_image      = "images/backgrounds/hero-background.jpg"
     heading               = "创国际品牌 为社会服务"
-    tagline               = "真诚服务 天天进步"
-    primary_button        = "查看产品"
+    tagline               = "诚信经营 质量保证"
+    primary_button        = "产品列表"
     primary_button_url    = "portfolio"
     secondary_button      = "联系我们"
     secondary_button_url  = "contact"
 
   [params.portfolio]
     enable    = true
-    title     = "最新产品"
+    title     = "产品列表"
     subtitle  = "Crafting experiences and seeking to make the complex clear & beautiful."
 
   [params.call_to_action]
     enable              = true
     background_image    = "images/backgrounds/cta-background.jpg"
-    title               = "LET’S WORK TOGETHER"
+    title               = "我们竭诚为您服务！"
     primary_button      = "立即咨询"
     primary_button_url  = "contact"
     secondary_button    = "不感兴趣"
@@ -92,7 +92,7 @@ summarylength = 25
     # Footer Contact Info
     [params.footer.contactInfo]
       title   = "联系方式"
-      address = "江苏省如皋市益寿北路兴如包装"
+      address = "江苏省如皋市经济开发区镇南居委会16组"
       phone   = "13921686888"
       email   = "bairunsan@foxmail.com"
       # Footer Sitemap

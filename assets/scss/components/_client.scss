@@ -12,13 +12,13 @@
   }
   &-item{
     text-align: center;
-    width: 20%;
+    width: 33.33%;
     margin-bottom: 50px;
     @include desktop{
       width: 33.33%;
     }
     @include mobile{
-      width: 50%;
+      width: 100%;
     }
   }
 }

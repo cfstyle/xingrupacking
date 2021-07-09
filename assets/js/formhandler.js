@@ -6,11 +6,11 @@ window.addEventListener("DOMContentLoaded", function() {
   function success() {
     form.reset();
     button.style = "display: none ";
-    status.innerHTML = "Thanks! Contact form is submitted successfully.";
+    status.innerHTML = "成功！感谢您的提交，我们会尽快和您联系！";
   }
 
   function error() {
-    status.innerHTML = "Oops! There was a problem.";
+    status.innerHTML = "抱歉！提交失败！请稍后再试。";
   }
 
   // handle the form submission event
