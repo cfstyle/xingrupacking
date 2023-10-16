@@ -1,4 +1,14 @@
 enable        : true
 title         : "我们的客户"
 client_logos  : 
-  ["images/clients/aikangkeji.png", "images/clients/yanfeng.png", "images/clients/anhuitianxin.png", "images/clients/nantongbaizheng.png"]
+  [
+    "images/clients/aikangkeji.png",
+    "images/clients/yanfeng.png",
+    "images/clients/anhuitianxin.png",
+    "images/clients/bestway.jpg",
+    "images/clients/nantongbaizheng.png",
+    
+    "images/clients/liangqinjiamu.jpg",
+    "images/clients/zhongyanjituan.png",
+    "images/clients/jingyi.jpg",
+  ]

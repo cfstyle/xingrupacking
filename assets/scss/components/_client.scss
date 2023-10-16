@@ -12,10 +12,10 @@
   }
   &-item{
     text-align: center;
-    width: 33.33%;
+    width: 25%;
     margin-bottom: 50px;
     @include desktop{
-      width: 33.33%;
+      width: 25%;
     }
     @include mobile{
       width: 100%;
